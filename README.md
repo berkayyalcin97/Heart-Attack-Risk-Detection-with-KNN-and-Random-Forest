@@ -2,5 +2,8 @@
 Heart Attack Risk Detection with KNN and Random Forest
 
 
-https://user-images.githubusercontent.com/72910610/207544005-4f8a9d45-e5fe-4c01-b8f6-75ca242fd949.mp4
+
+
+
+https://user-images.githubusercontent.com/72910610/207924214-3ea0e82f-3292-41d7-b7ee-a61d6eac8d4e.mp4
 
